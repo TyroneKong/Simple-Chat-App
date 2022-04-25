@@ -30,6 +30,7 @@ A simple chat app to allow 2 users to communicate
 ### Built with
 
 - React
+- React-router
 - Node
 - socketio
 

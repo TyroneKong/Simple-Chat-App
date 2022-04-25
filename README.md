@@ -2,11 +2,6 @@
 A simple chat app to allow to users to communicate
 
 
-# movieDB
-App to allow users to find movies and tv shows 
-
-More content to be added...
-
 ## Table of contents
 
 - [Overview](#overview)

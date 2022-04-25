@@ -1,5 +1,5 @@
 # Simple-Chat-App
-A simple chat app to allow to users to communicate
+A simple chat app to allow 2 users to communicate
 
 
 ## Table of contents
